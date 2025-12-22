@@ -10,7 +10,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=AI+Software+Engineer;Machine+Learning+Enthusiast;Building+Intelligent+Systems)](https://git.io/typing-svg)
 
-[![Profile Views](https://komarev.com/ghpvc/?username=firasayari10&color=6366f1&style=flat-square)](https://github.com/firasayari10)
+[![Profile views](https://komarev.com/ghpvc/?username=firasayari10&color=6366f1&style=flat-square)](https://github.com/firasayari10)
 [![GitHub followers](https://img.shields.io/github/followers/firasayari10?label=Followers&style=flat-square&color=6366f1)](https://github.com/firasayari10?tab=followers)
 
 </div>
