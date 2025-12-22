@@ -76,20 +76,6 @@ firas = {
 
 ---
 
-## � AI Fun Facts Generator
-
-<div align="center">
-
-| 🎰 Spin the Wheel | Result |
-|:---:|:---|
-| 🤖 | *"I've mass than my models"* |
-| 🧠 | *"GPT-4 and I are basically colleagues now"* |
-| 💻 | *"I speak fluent Python... and sarcasm"* |
-| ☕ | *"Powered by coffee and gradient descent"* |
-
-</div>
-
----
 
 ## 🌟 What I Bring to the Table
 
@@ -125,7 +111,6 @@ firas = {
 ### ⚡ Quick Stats
 
 ![](https://img.shields.io/badge/Focus-AI%2FML-6366F1?style=flat-square)
-![](https://img.shields.io/badge/Lives-Tunisia-EA4335?style=flat-square)
 ![](https://img.shields.io/badge/Languages-English%20%26%20French-007ACC?style=flat-square)
 ![](https://img.shields.io/badge/Hobbies-Learning%20%26%20Building-339933?style=flat-square)
 
