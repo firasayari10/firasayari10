@@ -18,7 +18,7 @@ firas = {
     "role": "AI Software Engineer",
     "focus": "Building intelligent systems",
     "passion": "Machine Learning & Deep Learning",
-    "fun_fact": "I train models while drinking coffee ☕"
+   
 }
 ```
 
@@ -30,7 +30,19 @@ firas = {
 
 ---
 
-## 🛠️ Tech Stack
+## � Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/firasayari10/firasayari10/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/firasayari10/firasayari10/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/firasayari10/firasayari10/output/github-snake.svg" />
+  </picture>
+</div>
+
+---
+
+## �🛠️ Tech Stack
 
 <div align="center">
 
@@ -61,10 +73,10 @@ firas = {
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/firasayari)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/firasayari)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:firas@example.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://firasayari.dev)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/firas-ayari-/)
+
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto: ayari.firas@esprit.tn)
+
 
 </div>
 
@@ -76,18 +88,6 @@ firas = {
   
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/firasayari10/firasayari10/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/firasayari10/firasayari10/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/firasayari10/firasayari10/output/github-snake.svg" />
-  </picture>
 </div>
 
 ---
