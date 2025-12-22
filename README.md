@@ -2,6 +2,12 @@
   
 # Hey there! 👋 I'm Firas Ayari
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/firasayari10/firasayari10/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/firasayari10/firasayari10/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/firasayari10/firasayari10/output/github-snake.svg" />
+</picture>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=AI+Software+Engineer;Machine+Learning+Enthusiast;Building+Intelligent+Systems)](https://git.io/typing-svg)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=firasayari10&color=6366f1&style=flat-square)](https://github.com/firasayari10)
@@ -30,17 +36,6 @@ firas = {
 
 ---
 
-## � Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/firasayari10/firasayari10/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/firasayari10/firasayari10/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/firasayari10/firasayari10/output/github-snake.svg" />
-  </picture>
-</div>
-
----
 
 ## �🛠️ Tech Stack
 
@@ -72,11 +67,26 @@ firas = {
 ## 🤝 Connect with Me
 
 <div align="center">
-  
+
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/firas-ayari-/)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayari.firas@esprit.tn)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/firasayari10)
 
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto: ayari.firas@esprit.tn)
+</div>
 
+---
+
+## 🎯 Currently Training My Brain On
+
+<div align="center">
+
+```
+🤖 Large Language Models      [█████████████████░░░]  85%
+🧠 Neural Networks           [██████████████████░░]  90%
+📊 Data Engineering          [███████████████░░░░░]  75%
+☁️  Cloud & MLOps             [████████████████░░░░]  80%
+🚀 Prompt Engineering        [███████████████████░]  95%
+```
 
 </div>
 
@@ -87,6 +97,30 @@ firas = {
 ### 💡 Random Dev Quote
   
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+---
+
+<div align="center">
+  
+### 🎵 Coding Vibes
+
+*"While my models train, I vibe to lo-fi beats"* 🎶
+
+<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31k5jxpv7rhdhxkdklcm3uq36qvy&cover_image=true&theme=novatorem&bar_color=6366f1&bar_color_cover=false" alt="Spotify" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 💬 Let's Build Something Amazing Together!
+
+<img src="https://img.shields.io/badge/-Open%20to%20Collaborate-6366F1?style=for-the-badge" alt="Open to Collaborate"/>
+
+*If you have an interesting AI project or just want to chat about machine learning, feel free to reach out!*
 
 </div>
 
