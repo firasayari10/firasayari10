@@ -76,16 +76,34 @@ firas = {
 
 ---
 
-## 🎯 Currently Training My Brain On
+## � AI Fun Facts Generator
+
+<div align="center">
+
+| 🎰 Spin the Wheel | Result |
+|:---:|:---|
+| 🤖 | *"I've mass than my models"* |
+| 🧠 | *"GPT-4 and I are basically colleagues now"* |
+| 💻 | *"I speak fluent Python... and sarcasm"* |
+| ☕ | *"Powered by coffee and gradient descent"* |
+
+</div>
+
+---
+
+## 🌟 What I Bring to the Table
 
 <div align="center">
 
 ```
-🤖 Large Language Models      [█████████████████░░░]  85%
-🧠 Neural Networks           [██████████████████░░]  90%
-📊 Data Engineering          [███████████████░░░░░]  75%
-☁️  Cloud & MLOps             [████████████████░░░░]  80%
-🚀 Prompt Engineering        [███████████████████░]  95%
+    🚀 INNOVATION          🤝 COLLABORATION         🎯 PRECISION
+         ╱╲                      ╱╲                      ╱╲
+        ╱  ╲                    ╱  ╲                    ╱  ╲
+       ╱ AI ╲                  ╱TEAM╲                  ╱DATA╲
+      ╱______╲                ╱______╲                ╱______╲
+   
+   Cutting-edge          Open source &           Clean code &
+   ML solutions        community driven        accurate models
 ```
 
 </div>
@@ -103,12 +121,13 @@ firas = {
 ---
 
 <div align="center">
-  
-### 🎵 Coding Vibes
 
-*"While my models train, I vibe to lo-fi beats"* 🎶
+### ⚡ Quick Stats
 
-<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31k5jxpv7rhdhxkdklcm3uq36qvy&cover_image=true&theme=novatorem&bar_color=6366f1&bar_color_cover=false" alt="Spotify" />
+![](https://img.shields.io/badge/Focus-AI%2FML-6366F1?style=flat-square)
+![](https://img.shields.io/badge/Lives-Tunisia-EA4335?style=flat-square)
+![](https://img.shields.io/badge/Languages-English%20%26%20French-007ACC?style=flat-square)
+![](https://img.shields.io/badge/Hobbies-Learning%20%26%20Building-339933?style=flat-square)
 
 </div>
 
