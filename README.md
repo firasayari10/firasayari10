@@ -1,5 +1,5 @@
 <div align="center">
-  
+
 # Hey there! 👋 I'm Firas Ayari
 
 <picture>
@@ -23,16 +23,14 @@
 firas = {
     "role": "AI Software Engineer",
     "focus": "Building intelligent systems",
-    "passion": "Machine Learning & Deep Learning",
-   
+    "passion": "Machine Learning & Deep Learning"
 }
 ```
 
-- 🤖 I'm currently working on **AI/ML projects**
-- 🧠 I'm currently learning **LLMs, GenAI & Advanced ML**
-- 👯 I'm looking to collaborate on **AI & Open Source projects**
+- 🤖 Currently working on **AI/ML projects**
+- 🧠 Learning **LLMs, GenAI & Advanced ML**
+- 👯 Looking to collaborate on **AI & Open Source projects**
 - 💬 Ask me about **AI, Machine Learning, Python**
-- ⚡ Fun fact: **My neural networks have better dreams than me**
 
 ---
 
@@ -75,30 +73,22 @@ firas = {
 
 ---
 
-
 ## 🌟 What I Bring to the Table
 
 <div align="center">
 
-```
-    🚀 INNOVATION          🤝 COLLABORATION         🎯 PRECISION
-         ╱╲                      ╱╲                      ╱╲
-        ╱  ╲                    ╱  ╲                    ╱  ╲
-       ╱ AI ╲                  ╱TEAM╲                  ╱DATA╲
-      ╱______╲                ╱______╲                ╱______╲
-   
-   Cutting-edge          Open source &           Clean code &
-   ML solutions        community driven        accurate models
-```
+| 🚀 Innovation | 🤝 Collaboration | 🎯 Precision |
+|:---:|:---:|:---:|
+| Cutting-edge ML solutions | Open source & community driven | Clean code & accurate models |
 
 </div>
 
 ---
 
 <div align="center">
-  
+
 ### 💡 Random Dev Quote
-  
+
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
@@ -121,7 +111,7 @@ firas = {
 
 ### 💬 Let's Build Something Amazing Together!
 
-<img src="https://img.shields.io/badge/-Open%20to%20Collaborate-6366F1?style=for-the-badge" alt="Open to Collaborate"/>
+[![Open to Collaborate](https://img.shields.io/badge/-Open%20to%20Collaborate-6366F1?style=for-the-badge)](mailto:ayari.firas@esprit.tn)
 
 *If you have an interesting AI project or just want to chat about machine learning, feel free to reach out!*
 
