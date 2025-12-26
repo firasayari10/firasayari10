@@ -68,22 +68,11 @@ class AIEngineer:
 
 ---
 
-## 🏆 Featured Projects
+## 🏅 GitHub Trophies
 
 <div align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=firasayari10&repo=REPO_NAME_1&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/firasayari10/REPO_NAME_1)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=firasayari10&repo=REPO_NAME_2&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/firasayari10/REPO_NAME_2)
-
+  <img src="https://github-profile-trophy.vercel.app/?username=firasayari10&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies"/>
 </div>
-
-> 💡 **Note:** Replace `REPO_NAME_1` and `REPO_NAME_2` with your actual repository names to showcase your best work!
-
-| 🚀 Project | 📝 Description | 🛠️ Tech Stack |
-|:-----------|:---------------|:--------------|
-| **AI Project 1** | Description of your best AI/ML project | PyTorch, LangChain |
-| **AI Project 2** | Description of another impressive project | TensorFlow, HuggingFace |
-| **AI Project 3** | Your third highlighted project | FastAPI, OpenAI |
 
 ---
 
@@ -134,38 +123,6 @@ class AIEngineer:
 
 ---
 
-## 🎯 What I Specialize In
-
-<div align="center">
-
-| 🤖 AI/ML Engineering | 🧠 LLM & GenAI | 📊 MLOps |
-|:---:|:---:|:---:|
-| End-to-end ML pipelines | RAG systems & Chatbots | Model deployment & monitoring |
-| Computer Vision & NLP | Fine-tuning & Prompt Engineering | CI/CD for ML |
-| Deep Learning models | Agent frameworks | Scalable AI solutions |
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  
-[![Firas's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=firasayari10&theme=tokyo-night&hide_border=true&area=true)](https://github.com/firasayari10)
-
-</div>
-
----
-
-## 🏅 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=firasayari10&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies"/>
-</div>
-
----
-
 ## 🤝 Connect with Me
 
 <div align="center">
@@ -173,20 +130,6 @@ class AIEngineer:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/firas-ayari-/)
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayari.firas@esprit.tn)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/firasayari10)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-6366F1?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio.com)
-[![Resume](https://img.shields.io/badge/-Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://your-resume-link.com)
-
-</div>
-
----
-
-## 🌟 What I Bring to the Table
-
-<div align="center">
-
-| 🚀 Innovation | 🤝 Collaboration | 🎯 Results-Driven | 📚 Continuous Learning |
-|:---:|:---:|:---:|:---:|
-| Cutting-edge AI solutions | Team player & open source contributor | Production-ready code | Always exploring new tech |
 
 </div>
 
