@@ -26,8 +26,8 @@ class AIEngineer:
     def __init__(self):
         self.name = "Firas Ayari"
         self.role = "AI Software Engineer"
-        self.location = "Tunisia 🇹🇳"
-        self.education = "Engineering @ ESPRIT"
+        self.location = "Paris "
+        self.education = "Ai & software engineering "
         
     def skills(self):
         return {
@@ -43,10 +43,10 @@ class AIEngineer:
 <img align="right" alt="Coding" width="320" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🔭 Currently building **LLM-powered applications & RAG systems**
-- 🌱 Deep diving into **Agent frameworks, Fine-tuning & MLOps**
+- 🌱 Deep diving into **Agent frameworks, Fine-tuning**
 - 💡 Passionate about **transforming complex problems into AI solutions**
 - 🤝 Open to **collaborating on innovative AI/ML projects**
-- 📫 Reach me at **ayari.firas@esprit.tn**
+- 📫 Reach me at **ayarifiras171@gmail.com**
 - ⚡ Fun fact: **I debug ML models like I debug life - with patience and lots of coffee ☕**
 
 ---
@@ -99,11 +99,7 @@ class AIEngineer:
 ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Ollama](https://img.shields.io/badge/-Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
 
-### 📊 Data & MLOps
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![MLflow](https://img.shields.io/badge/-MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
-![Weights & Biases](https://img.shields.io/badge/-W%26B-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black)
+
 
 ### ☁️ Cloud & DevOps
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
@@ -126,20 +122,13 @@ class AIEngineer:
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/firas-ayari-/)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayari.firas@esprit.tn)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayarifiras171@gmail.com)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/firasayari10)
 
 </div>
 
 ---
 
-<div align="center">
-
-### 💡 Random Dev Quote
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
 
 ---
 
