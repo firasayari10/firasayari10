@@ -53,10 +53,7 @@ class AIEngineer:
 
 ## � GitHub Analytics
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=firasayari10&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=firasayari10&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-</div>
+
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=firasayari10&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
@@ -68,11 +65,7 @@ class AIEngineer:
 
 ---
 
-## 🏅 GitHub Trophies
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=firasayari10&theme=algolia&no-frame=true&margin-w=4&row=1&column=7" alt="GitHub Trophies"/>
-</div>
 
 ---
 
@@ -110,7 +103,7 @@ class AIEngineer:
 
 ### 🗄️ Databases & Vector Stores
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
 
 
 </div>
@@ -160,11 +153,6 @@ class AIEngineer:
 
 ---
 
-<div align="center">
-  
-  ![Visitor Count](https://profile-counter.glitch.me/firasayari10/count.svg)
-  
-</div>
 
 ---
 
