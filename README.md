@@ -36,19 +36,27 @@ Ingénieur logiciel orienté **Full‑Stack & IA**, avec un focus sur la créati
 
 ## 📌 Projets sélectionnés
 
-> Remplace par 3–5 projets forts (impact clair + résultats).
+Quelques projets concrets (Full‑Stack + IA) issus de mon GitHub :
 
-- **Nom du projet 1** — problème + résultat mesurable  
-  Tech: `TypeScript` `Python` `FastAPI` `PostgreSQL`  
-  Repo: `https://github.com/firasayari10/...`
+- **YouTube‑AI** — clone YouTube complet avec fonctionnalités IA (titres, descriptions, miniatures), upload/processing vidéo, analytics et studio créateur.  
+  Tech: `Next.js 15` `TypeScript` `tRPC` `Drizzle` `Neon` `Mux` `Upstash`  
+  Repo: https://github.com/firasayari10/Youtube-AI
 
-- **Nom du projet 2** — une phrase courte d’impact  
-  Tech: `LLM` `RAG` `Docker`  
-  Repo: `https://github.com/firasayari10/...`
+- **Jira‑Clone** — gestion de projets et tâches type Jira (Kanban, table, calendrier, analytics, OAuth).  
+  Tech: `Next.js` `TypeScript` `Hono` `Appwrite` `TanStack Query` `Tailwind`  
+  Repo: https://github.com/firasayari10/Jira-Clone
 
-- **Nom du projet 3** — une phrase courte  
-  Tech: `React` `API` `Azure`  
-  Repo: `https://github.com/firasayari10/...`
+- **Docs** — éditeur collaboratif temps réel (présence, commentaires, WYSIWYG) avec architecture full‑stack moderne.  
+  Tech: `Next.js 15` `Convex` `Clerk` `Liveblocks` `TipTap` `Tailwind`  
+  Repo: https://github.com/firasayari10/Docs
+
+- **OCR‑task (Medical OCR)** — pipeline OCR multi‑agents (PHI redaction, extraction médicaments, bases RxNorm/FDA).  
+  Tech: `FastAPI` `Azure Vision OCR` `FAISS` `HuggingFace` `React`  
+  Repo: https://github.com/firasayari10/OCR-task
+
+- **RAG‑pipeline‑Azure** — pipeline RAG complet (chunking → embeddings → index vectoriel → génération).  
+  Tech: `Python` `Azure OpenAI` `Cognitive Search` `Embeddings`  
+  Repo: https://github.com/firasayari10/RAG-pipeline-Azure
 
 ---
 
