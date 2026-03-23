@@ -1,9 +1,9 @@
 <div align="center">
 
 # Firas Ayari  
-### Ingénieur IA · LLMs · RAG · Vision par ordinateur
+### Full‑Stack & AI Software Engineer — en recherche d’alternance
 
-Je conçois et déploie des systèmes IA **robustes et prêts pour la production** — de la donnée à l’API.
+Je conçois des applications **full‑stack intelligentes** et des systèmes IA **prêts pour la production**.
 
 [LinkedIn](https://www.linkedin.com/in/firas-ayari-/) · [Email](mailto:ayarifiras171@gmail.com) · [GitHub](https://github.com/firasayari10)
 
@@ -13,52 +13,42 @@ Je conçois et déploie des systèmes IA **robustes et prêts pour la production
 
 ## 🎯 Profil
 
-Ingénieur IA spécialisé dans les applications basées sur les LLMs et la vision par ordinateur.  
-J’aime transformer des besoins flous en solutions **claires, efficaces et déployables**.
+Ingénieur logiciel orienté **Full‑Stack & IA**, avec un focus sur la création de produits complets :  
+**interface → backend → modèles → déploiement**.
 
-- 🔭 **Focus actuel :** applications LLM + RAG + APIs IA  
+🎓 **En recherche d’une alternance** en développement full‑stack / AI software engineering.
+
+- 🔭 **Focus actuel :** apps LLM, RAG, APIs IA, produits web  
 - 🌱 **Approfondissement :** agents, fine‑tuning, MLOps  
-- 🤝 **Ouvert à :** collaborations IA / postes IA & GenAI  
+- 🤝 **Ouvert à :** alternance, projets innovants, collaborations  
 
 ---
 
 ## 🧠 Compétences clés
 
-- **IA / ML :** Deep Learning, NLP, Vision par ordinateur, LLMs  
-- **LLM Stack :** RAG, prompt engineering, fine‑tuning, évaluation  
-- **Backend / APIs :** Python, FastAPI, TypeScript, SQL  
+- **Full‑Stack :** TypeScript, JavaScript, SQL, APIs REST  
+- **Backend :** Python, FastAPI, Node.js  
+- **IA / ML :** NLP, Vision, LLMs, RAG  
 - **MLOps / Déploiement :** Docker, Azure, Linux, Git  
-- **Outils :** PyTorch, TensorFlow, scikit‑learn, Hugging Face, LangChain, OpenCV  
+- **Outils :** PyTorch, TensorFlow, Hugging Face, LangChain, OpenCV  
 
 ---
 
 ## 📌 Projets sélectionnés
 
-> Remplace par tes 3–5 projets les plus solides (impact clair + résultats).
+> Remplace par 3–5 projets forts (impact clair + résultats).
 
-- **Nom du projet 1** — phrase courte : problème + résultat mesurable  
-  Tech: `Python` `FastAPI` `LangChain` `PostgreSQL`  
+- **Nom du projet 1** — problème + résultat mesurable  
+  Tech: `TypeScript` `Python` `FastAPI` `PostgreSQL`  
   Repo: `https://github.com/firasayari10/...`
 
-- **Nom du projet 2** — phrase courte  
-  Tech: `PyTorch` `OpenCV` `Docker`  
+- **Nom du projet 2** — une phrase courte d’impact  
+  Tech: `LLM` `RAG` `Docker`  
   Repo: `https://github.com/firasayari10/...`
 
-- **Nom du projet 3** — phrase courte  
-  Tech: `TypeScript` `LLM API` `Azure`  
+- **Nom du projet 3** — une phrase courte  
+  Tech: `React` `API` `Azure`  
   Repo: `https://github.com/firasayari10/...`
-
----
-
-## 📊 Statistiques GitHub
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=firasayari10&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=firasayari10&theme=tokyo-night&hide_border=true&bg_color=0D1117" width="100%"/>
-</div>
 
 ---
 
@@ -66,3 +56,7 @@ J’aime transformer des besoins flous en solutions **claires, efficaces et dép
 
 - 📧 ayarifiras171@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/firas-ayari-/)
+
+---
+
+💡 *Je suis activement à la recherche d’une alternance en Full‑Stack / AI Software Engineering.*
