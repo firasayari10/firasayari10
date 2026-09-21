@@ -12,7 +12,7 @@ Je conçois des applications full-stack intelligentes et des systèmes IA prêts
 
 ---
 
-## FR
+## FR ( version francaise : cliquez ici )
 
 ## Profil
 
